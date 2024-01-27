@@ -1,0 +1,514 @@
+[
+    {
+        "id": 1,
+        "productName": "Premium Running Shoes",
+        "price": 79.99,
+        "discountPrice": 64.99,
+        "rating": {
+          "stars": 4
+        },
+        "reviews": [
+          {
+            "rating": 4,
+            "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo."
+          },
+          {
+            "rating": 5,
+          "review": "Excellent shoes! Comfortable and stylish. The color is vibrant, and the size fits perfectly."
+          },
+          {
+            "rating": 4.5,
+            "review": "Great quality! I've been using these for my daily runs, and they provide excellent support."
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": [38, 40, 42],
+        "stock": 100,
+        "colors": ["#3498db", "#e74c3c", "#2ecc71"],
+        "category": "Running Shoes",
+        "image": "https://iili.io/JcC5Qx2.md.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Feature 1", "Feature 2", "Feature 3", "Feature 4", "Feature 5"]
+      },
+      {
+        "id": 2,
+        "productName": "ComfortFit Sneakers",
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "rating": {
+          "stars": 4.2
+        },
+        "reviews": [
+          {
+            "rating": 4.5,
+            "review": "Perfect fit! These sneakers are comfortable and provide great support. I love the stylish design."
+          },
+          {
+            "rating": 4,
+            "review": "Good value for money. They look great and feel comfortable for long walks."
+          },
+          {
+            "rating": 5,
+            "review": "Excellent sneakers! The material is durable, and they are perfect for my workouts."
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": [39, 41, 43],
+        "stock": 150,
+        "colors": ["#1abc9c", "#f39c12", "#8e44ad"],
+        "category": "Sneakers",
+        "image": "https://iili.io/JcC5sDl.md.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Feature A", "Feature B", "Feature C", "Feature D", "Feature E"]
+      },
+      {
+        "id": 3,
+        "productName": "Trailblazer Hiking Boots",
+        "price": 89.99,
+        "discountPrice": 74.99,
+        "rating": {
+          "stars": 4.7
+        },
+        "reviews": [
+          {
+            "rating": 5,
+            "review": "Best hiking boots I've ever owned! Comfortable, durable, and great for tough terrains."
+          },
+          {
+            "rating": 4.5,
+            "review": "Stylish design with excellent ankle support. These boots exceeded my expectations."
+          },
+          {
+            "rating": 4,
+            "review": "Good value for the price. Suitable for various outdoor activities."
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": [40, 42, 44],
+        "stock": 120,
+        "quantity": 0,
+        "colors": ["#2ecc71", "#e74c3c", "#3498db"],
+        "category": "Hiking Boots",
+        "image": "https://iili.io/JcC5ZVS.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Waterproof", "High Traction Sole", "Ankle Support", "Breathable", "Durable Construction"]
+      },
+      {
+        "id": 4,
+        "productName": "Urban Explorer Sneakers",
+        "price": 69.99,
+        "discountPrice": 59.99,
+        "rating": {
+          "stars": 4.4
+        },
+        "reviews": [
+          {
+            "rating": 4.5,
+            "review": "Great urban sneakers! Stylish and comfortable for daily wear. I love the trendy design."
+          },
+          {
+            "rating": 4,
+            "review": "Good quality sneakers at an affordable price. They fit well and look fantastic."
+          },
+          {
+            "rating": 5,
+            "review": "Urban Explorer Sneakers exceeded my expectations. Excellent for both style and comfort."
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": [38, 41, 43],
+        "stock": 80,
+        "quantity": 0,
+        "colors": ["#3498db", "#e74c3c", "#2ecc71"],
+        "category": "Sneakers",
+        "image": "https://iili.io/JcCNhwN.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Lightweight Design", "Cushioned Insole", "Breathable Material", "Durable Sole", "Versatile Style"]
+      },
+      {
+        "id": 5,
+        "productName": "Active Lifestyle Sandals",
+        "price": 39.99,
+        "discountPrice": 29.99,
+        "rating": {
+          "stars": 4.0
+        },
+        "reviews": [
+          {
+            "rating": 4,
+            "review": "Comfortable sandals for everyday use. They are versatile and provide good support."
+          },
+          {
+            "rating": 3.5,
+            "review": "Decent quality for the price. Suitable for casual outings and light activities."
+          },
+          {
+            "rating": 4.2,
+            "review": "Nice design and fit well. I use them for walks and find them comfortable."
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": [37, 39, 41],
+        "stock": 60,
+        "quantity": 0,
+        "colors": ["#f39c12", "#8e44ad", "#16a085"],
+        "category": "Sandals",
+        "image": "https://iili.io/JcCNM8v.md.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Adjustable Straps", "Cushioned Footbed", "Lightweight Design", "Durable Outsole", "Versatile Style"]
+      },
+      {
+        "id": 6,
+        "productName": "All-Terrain Trail Shoes",
+        "price": 74.99,
+        "discountPrice": 64.99,
+        "rating": {
+          "stars": 4.6
+        },
+        "reviews": [
+          {
+            "rating": 4.5,
+            "review": "Versatile trail shoes! Comfortable for both men and women. Great for outdoor activities."
+          },
+          {
+            "rating": 4.8,
+            "review": "Excellent grip and durability. Suitable for various terrains. Both my husband and I love them!"
+          },
+          {
+            "rating": 4.7,
+            "review": "Stylish and functional. Bought a pair for myself and my boyfriend. Highly recommended!"
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": ["0", "41"],
+        "stock": 60,
+        "quantity": 0,
+        "colors": ["#3498db", "#e74c3c", "#2ecc71"],
+        "category": "Trail Shoes",
+        "image":"https://iili.io/JcCNXup.md.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["All-Terrain Grip", "Water-Resistant", "Shock Absorption", "Breathable Design", "Unisex Styling"]
+      },
+      {
+        "id": 7,
+        "productName": "Casual Slip-On Sneakers",
+        "price": 59.99,
+        "discountPrice": 49.99,
+        "rating": {
+          "stars": 4.3
+        },
+        "reviews": [
+          {
+            "rating": 4.5,
+            "review": "Easy to slip on and off. These sneakers are comfortable and stylish for everyday wear."
+          },
+          {
+            "rating": 4,
+            "review": "Affordable and great quality. Perfect for a casual look. My go-to shoes!"
+          },
+          {
+            "rating": 4.2,
+            "review": "Love these slip-on sneakers! They are convenient and look good with various outfits."
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": ["39","44", "36","41"],
+        "stock": 80,
+        "quantity": 0,
+        "colors": ["#2ecc71", "#e74c3c", "#3498db"],
+        "category": "Casual Sneakers",
+        "image": "https://iili.io/JcCNhwN.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Easy Slip-On", "Comfortable Fit", "Versatile Style", "Durable Construction", "Cushioned Insole"]
+      },
+      {
+        "id": 8,
+        "productName": "Athletic Running Shoes",
+        "price": 69.99,
+        "discountPrice": 59.99,
+        "rating": {
+          "stars": 4.5
+        },
+        "reviews": [
+          {
+            "rating": 4.8,
+            "review": "Fantastic running shoes! Lightweight, great support, and perfect for my daily jogs."
+          },
+          {
+            "rating": 4.5,
+            "review": "Impressed with the quality. These shoes offer excellent comfort and durability."
+          },
+          {
+            "rating": 4.2,
+            "review": "Stylish design with a comfortable fit. I use them for both running and casual wear."
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": ["41","45", "37","41"],
+        "stock": 100,
+        "quantity": 0,
+        "colors": ["#3498db", "#e74c3c", "#2ecc71"],
+        "category": "Running Shoes",
+        "image": "https://iili.io/JcCNNnt.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Breathable Mesh", "Cushioned Sole", "Reflective Accents", "Ankle Support", "Versatile Performance"]
+      },
+      {
+        "id": 9,
+        "productName": "Fashionable High Heels",
+        "price": 89.99,
+        "discountPrice": 79.99,
+        "rating": {
+          "stars": 4.2
+        },
+        "reviews": [
+          {
+            "rating": 4.5,
+            "review": "Absolutely stunning! These high heels are perfect for special occasions. Comfortable and stylish."
+          },
+          {
+            "rating": 4,
+            "review": "Love the design. The heels are not too high, making them comfortable for extended wear."
+          },
+          {
+            "rating": 4.2,
+            "review": "Impressive quality. I received many compliments when wearing these heels. Great buy!"
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": ["35","41"],
+        "stock": 60,
+        "quantity": 0,
+        "colors": ["#e74c3c", "#3498db", "#f39c12"],
+        "category": "High Heels",
+        "image": "https://iili.io/JcCNOMX.md.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Elegant Design", "Comfortable Fit", "Sturdy Heel", "Versatile Style", "Ideal for Events"]
+      },
+      {
+        "id": 10,
+        "productName": "Classic Leather Ankle Boots",
+        "price": 119.99,
+        "discountPrice": 109.99,
+        "rating": {
+          "stars": 4.5
+        },
+        "reviews": [
+          {
+            "rating": 4.7,
+            "review": "These ankle boots are a must-have! The classic design and premium leather make them perfect for any outfit."
+          },
+          {
+            "rating": 4.3,
+            "review": "Comfortable from the first wear. The quality is exceptional, and they look even better in person."
+          },
+          {
+            "rating": 4.5,
+            "review": "Versatile and stylish. I've received compliments every time I wear them. Great investment!"
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": ["36", "40", "42"],
+        "stock": 45,
+        "quantity": 0,
+        "colors": ["#000000", "#c0c0c0", "#8b4513"],
+        "category": "Ankle Boots",
+        "image": "https://iili.io/Jcx4PN1.md.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Timeless Design", "Premium Leather", "Cushioned Insole", "Durable Sole", "Perfect for Any Occasion"]
+      },
+      {
+        "id": 11,
+        "productName": "Sporty Running Shoes",
+        "price": 69.99,
+        "discountPrice": 59.99,
+        "rating": {
+          "stars": 4.0
+        },
+        "reviews": [
+          {
+            "rating": 4.2,
+            "review": "Fantastic running shoes! Lightweight and comfortable for long runs. Highly recommend!"
+          },
+          {
+            "rating": 3.8,
+            "review": "Good value for the price. The design is sleek, and they provide good support during workouts."
+          },
+          {
+            "rating": 4.0,
+            "review": "I love the vibrant colors! These shoes are not only stylish but also great for various exercises."
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": ["38", "42", "44"],
+        "stock": 75,
+        "quantity": 0,
+        "colors": ["#2ecc71", "#e74c3c", "#3498db"],
+        "category": "Running Shoes",
+        "image": "https://iili.io/Jcx4Log.md.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Lightweight Design", "Breathable Material", "Shock Absorption", "Non-Slip Sole", "Ideal for Running and Workouts"]
+      },
+      {
+        "id": 12,
+        "productName": "Vintage Leather Messenger Bag",
+        "price": 129.99,
+        "discountPrice": 119.99,
+        "rating": {
+          "stars": 4.8
+        },
+        "reviews": [
+          {
+            "rating": 4.9,
+            "review": "This messenger bag exceeded my expectations! The vintage leather is stunning, and it's incredibly spacious."
+          },
+          {
+            "rating": 4.7,
+            "review": "High-quality craftsmanship. The attention to detail in the design is impressive. A perfect blend of style and functionality."
+          },
+          {
+            "rating": 4.8,
+            "review": "Versatile and durable. It's become my go-to bag for work and casual outings. Couldn't be happier with my purchase."
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": ["One Size"],
+        "stock": 35,
+        "quantity": 0,
+        "colors": ["#8b4513", "#2c3e50", "#d35400"],
+        "category": "Messenger Bags",
+        "image": "https://iili.io/Jcx4iDF.md.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Genuine Leather", "Adjustable Shoulder Strap", "Multiple Compartments", "Vintage Design", "Perfect for Everyday Use"]
+      },
+      {
+        "id": 13,
+        "productName": "Classic Leather Oxford Shoes",
+        "price": 79.99,
+        "discountPrice": 69.99,
+        "rating": {
+          "stars": 4.8
+        },
+        "reviews": [
+          {
+            "rating": 5,
+            "review": "These leather oxford shoes are incredibly stylish and well-made. The quality is top-notch, and they're comfortable for all-day wear."
+          },
+          {
+            "rating": 4.7,
+            "review": "I love the classic design of these oxford shoes. They add a touch of sophistication to any outfit. Great value for the price!"
+          },
+          {
+            "rating": 4.9,
+            "review": "The craftsmanship on these shoes is impressive. They fit perfectly, and I've received many compliments. Highly recommend!"
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": ["40", "42", "38", "45"],
+        "stock": 60,
+        "quantity": 0,
+        "colors": ["#333333", "#c0c0c0", "#964b00"],
+        "category": "Formal Shoes",
+        "image": "https://iili.io/JcDcJY.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Genuine Leather", "Classic Oxford Design", "Comfortable Insole", "Sturdy Sole", "Suitable for Formal Occasions"]
+      },
+      {
+        "id": 14,
+        "productName": "Athletic Running Shoes",
+        "price": 89.99,
+        "discountPrice": 79.99,
+        "rating": {
+          "stars": 4.5
+        },
+        "reviews": [
+          {
+            "rating": 4.8,
+            "review": "Excellent running shoes! They provide great support and cushioning. Perfect for long-distance runs or everyday workouts."
+          },
+          {
+            "rating": 4.2,
+            "review": "I love the lightweight feel of these shoes. They have a sleek design and offer good traction. Great value for the price."
+          },
+          {
+            "rating": 4.5,
+            "review": "These athletic shoes are comfortable and durable. I've been using them for both running and gym sessions, and they've held up well."
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": ["37", "42", "39", "44"],
+        "stock": 65,
+        "quantity": 0,
+        "colors": ["#3498db", "#e74c3c", "#2ecc71"],
+        "category": "Running Shoes",
+        "image": "https://images.unsplash.com/photo-1603191659812-ee978eeeef76?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Breathable Mesh Upper", "Shock Absorption", "Flexible Sole", "Reflective Details", "Ideal for Running and Fitness"]
+      },      
+      {
+        "id": 15,
+        "productName": "Cozy Winter Boots",
+        "price": 129.99,
+        "discountPrice": 109.99,
+        "rating": {
+          "stars": 4.6
+        },
+        "reviews": [
+          {
+            "rating": 4.7,
+            "review": "These winter boots are incredibly warm and comfortable. They kept my feet cozy even in the coldest temperatures. Stylish and functional!"
+          },
+          {
+            "rating": 4.5,
+            "review": "I love the faux fur lining inside these boots. It adds a luxurious touch and provides extra insulation. Great for snowy days."
+          },
+          {
+            "rating": 4.8,
+            "review": "Durable and waterproof! These boots are perfect for winter walks and activities. The grip on the sole is excellent in slippery conditions."
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": ["38", "40", "41", "45"],
+        "stock": 50,
+        "quantity": 0,
+        "colors": ["#663300", "#996633", "#000000"],
+        "category": "Winter Boots",
+        "image": "https://images.unsplash.com/photo-1551489186-ccb95a1ea6a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODh8fHNob2VzfGVufDB8fDB8fHww",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Insulated for Warmth", "Waterproof Design", "Faux Fur Lining", "Durable Outsole", "Stylish Winter Fashion"]
+      },
+      {
+        "id": 16,
+        "productName": "Casual Canvas Slip-Ons",
+        "price": 39.99,
+        "discountPrice": 34.99,
+        "rating": {
+          "stars": 4.2
+        },
+        "reviews": [
+          {
+            "rating": 4.0,
+            "review": "Simple and comfortable canvas slip-ons. Great for casual outings. They are easy to clean and go well with various outfits."
+          },
+          {
+            "rating": 4.3,
+            "review": "Affordable and stylish! These slip-ons are my everyday choice. Comfortable for all-day wear, and the colors are versatile."
+          },
+          {
+            "rating": 4.5,
+            "review": "Love the lightweight feel of these canvas shoes. Perfect for summer strolls. The slip-on design makes them convenient to wear and take off."
+          }
+        ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at semper tellus. Sed id velit vel ipsum commodo commodo.",
+        "size": ["36", "38", "40", "42"],
+        "stock": 70,
+        "quantity": 0,
+        "colors": ["#3498db", "#e74c3c", "#f39c12"],
+        "category": "Casual Slip-Ons",
+        "image": "https://images.unsplash.com/photo-1622760807800-66cf1466fc08?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTZ8fHNob2VzfGVufDB8fDB8fHww",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id velit vel ipsum commodo commodo. Duis bibendum fringilla purus, ac consectetur ex cursus nec. Nulla facilisi. Vestibulum vel arcu a lectus vestibulum varius. In hac habitasse platea dictumst.",
+        "features": ["Classic Slip-On Style", "Breathable Canvas Material", "Lightweight Construction", "Versatile Colors", "Easy to Clean"]
+      }
+   
+  ]
+  
